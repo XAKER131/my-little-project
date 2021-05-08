@@ -1,0 +1,202 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.3f1 (76626098c1c4) revision 7758432'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Education; OS build 19042.746; Version 2009; 64bit' Language: 'ru' Physical Memory: 4001 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/SchoolIT/Documents/GitHub/my-little-project
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+58555
+Successfully changed project path to: C:/Users/SchoolIT/Documents/GitHub/my-little-project
+C:/Users/SchoolIT/Documents/GitHub/my-little-project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 397.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.3f1 (76626098c1c4)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/SchoolIT/Documents/GitHub/my-little-project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics (ID=0x22b1)
+    Vendor:   
+    VRAM:     2000 MB
+    Driver:   20.19.15.5070
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56396
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.245348 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 208.05 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.847 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006092 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 203.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.997 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.43 seconds
+Refreshing native plugins compatible for Editor in 2.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1964 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.3 MB.
+System memory in use after: 90.4 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2414.
+Total: 9.369800 ms (FindLiveObjects: 0.919300 ms CreateObjectMapping: 0.480200 ms MarkObjects: 7.650200 ms  DeleteObjects: 0.314200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Sprites/buzzsaw-hit.png
+  artifactKey: Guid(fad9b7d6b7a8e2c40b60b5449635b93d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/buzzsaw-hit.png using Guid(fad9b7d6b7a8e2c40b60b5449635b93d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cd02ae4e2b42d8d7e538c9978eeef76') in 0.993923 seconds
+  Import took 1.157823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000923 seconds.
+  path: Assets/Sprites/Ded.png
+  artifactKey: Guid(cccc6d08e298d9b4ab0e1e0fa0989f82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Ded.png using Guid(cccc6d08e298d9b4ab0e1e0fa0989f82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b58a421e90579a7482b9d6f1ad983f7') in 0.138080 seconds
+  Import took 0.150743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000796 seconds.
+  path: Assets/Sfx/12845.mp3
+  artifactKey: Guid(ed8f6cc815e70194f80dac95cb33742c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sfx/12845.mp3 using Guid(ed8f6cc815e70194f80dac95cb33742c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd60e1b39089f73de137d1de43ecc00e') in 0.686162 seconds
+  Import took 0.717425 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000879 seconds.
+  path: Assets/Sfx/01893.mp3
+  artifactKey: Guid(c49fdd059e947cf4a82bd1c10cfad5aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sfx/01893.mp3 using Guid(c49fdd059e947cf4a82bd1c10cfad5aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a5ee137b9c35515ea05d03cefa2a4f3') in 0.155335 seconds
+  Import took 0.207388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000930 seconds.
+  path: Assets/Sfx/shoot2.wav
+  artifactKey: Guid(3eee5007babe7804c9c138b6f27eafb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sfx/shoot2.wav using Guid(3eee5007babe7804c9c138b6f27eafb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92b0484a5972aa1e1d8b0b1de443c259') in 0.151682 seconds
+  Import took 0.192765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000793 seconds.
+  path: Assets/Sfx/What a dark place (online-audio-converter.com) (1).wav
+  artifactKey: Guid(4690465f381852e41bb218ac3d85078c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sfx/What a dark place (online-audio-converter.com) (1).wav using Guid(4690465f381852e41bb218ac3d85078c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd90dc1c134d2882330a691df4bd6be91') in 0.215194 seconds
+  Import took 0.253151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001002 seconds.
+  path: Assets/Sprites/SpriteLightingMaterial.mat
+  artifactKey: Guid(b3614d6d07a1f974d9035b996cc0cccc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/SpriteLightingMaterial.mat using Guid(b3614d6d07a1f974d9035b996cc0cccc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61e4a60168889ffa9127d7f54f12826c') in 1.356999 seconds
+  Import took 1.392716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001023 seconds.
+  path: Assets/Sprites/buzzsaw.png
+  artifactKey: Guid(5db813d9abc55614aa0f5207eb2ffed1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/buzzsaw.png using Guid(5db813d9abc55614aa0f5207eb2ffed1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b227521186ae9cc56d263e5c4228506') in 0.184633 seconds
+  Import took 0.196668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000821 seconds.
+  path: Assets/Sfx/shoot1.wav
+  artifactKey: Guid(4b39f8914f3a4ae41b3293804d869469) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sfx/shoot1.wav using Guid(4b39f8914f3a4ae41b3293804d869469) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd95c61870bc511e32ba370a4a73e73b') in 0.153682 seconds
+  Import took 0.165092 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000799 seconds.
+  path: Assets/Sfx/ambient.mp3
+  artifactKey: Guid(eced0f8c033e26843af3646cfdef50ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sfx/ambient.mp3 using Guid(eced0f8c033e26843af3646cfdef50ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '304bebac9223304c60e0662bce98ba27') in 0.132350 seconds
+  Import took 0.176898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000833 seconds.
+  path: Assets/Sprites/New Material.mat
+  artifactKey: Guid(42e6936db64f08341a78ebbcf0c9d5cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Material.mat using Guid(42e6936db64f08341a78ebbcf0c9d5cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e761908789f7ddbbec26e1ace62117d') in 0.694168 seconds
+  Import took 0.727134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000932 seconds.
+  path: Assets/Sfx/death.ogg
+  artifactKey: Guid(ef3b5bb869922d1449338a7c09008988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sfx/death.ogg using Guid(ef3b5bb869922d1449338a7c09008988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe4af2b9748e184673a95a0cdaeb0f12') in 0.158082 seconds
+  Import took 0.183877 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000831 seconds.
+  path: Assets/Scripts/Tiles
+  artifactKey: Guid(4454535735928fd4f8e930d3a3e5be1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Tiles using Guid(4454535735928fd4f8e930d3a3e5be1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4295aa83de81607e66bdb9709f9c7300') in 0.076875 seconds
+  Import took 0.101436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000776 seconds.
+  path: Assets/Sprites/New Piskel.png
+  artifactKey: Guid(edd53bb343d8cd648990aa3c56be25b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Piskel.png using Guid(edd53bb343d8cd648990aa3c56be25b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f58f220e955cfd261996132c92d674e1') in 0.106576 seconds
+  Import took 0.117986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000709 seconds.
+  path: Assets/Sfx/win.wav
+  artifactKey: Guid(6ca18473c9c793a4a9e9f755d81f1ad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sfx/win.wav using Guid(6ca18473c9c793a4a9e9f755d81f1ad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecd459741474be00b7eb8dd99f01056a') in 0.152160 seconds
+  Import took 0.177468 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000807 seconds.
+  path: Assets/Sfx/run_short.ogg
+  artifactKey: Guid(44008bf4aea22434ba28a2c08e13a97b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sfx/run_short.ogg using Guid(44008bf4aea22434ba28a2c08e13a97b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc22482a7fae54d85b0a245da35521af') in 0.140855 seconds
+  Import took 0.161066 seconds .
+

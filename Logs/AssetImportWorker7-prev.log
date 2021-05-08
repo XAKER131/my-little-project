@@ -1,0 +1,138 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.3f1 (76626098c1c4) revision 7758432'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Education; OS build 19042.746; Version 2009; 64bit' Language: 'ru' Physical Memory: 4001 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker7
+-projectPath
+C:/Users/SchoolIT/Documents/GitHub/my-little-project
+-logFile
+Logs/AssetImportWorker7.log
+-srvPort
+49157
+Successfully changed project path to: C:/Users/SchoolIT/Documents/GitHub/my-little-project
+C:/Users/SchoolIT/Documents/GitHub/my-little-project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 310.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.3f1 (76626098c1c4)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/SchoolIT/Documents/GitHub/my-little-project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics (ID=0x22b1)
+    Vendor:   
+    VRAM:     2000 MB
+    Driver:   20.19.15.5070
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56668
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.008480 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 182.76 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.487 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005318 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 190.96 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.409 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.29 seconds
+Refreshing native plugins compatible for Editor in 1.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1964 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.9 MB.
+System memory in use after: 90.0 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2412.
+Total: 8.882900 ms (FindLiveObjects: 1.089700 ms CreateObjectMapping: 0.341900 ms MarkObjects: 7.161500 ms  DeleteObjects: 0.282800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Prefab/oil surf.prefab
+  artifactKey: Guid(14490bff00da0144ca0b3b59adbdd0c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/oil surf.prefab using Guid(14490bff00da0144ca0b3b59adbdd0c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b91e77703e392d5be8f9d6181ec38fa') in 4.515104 seconds
+  Import took 4.526461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000780 seconds.
+  path: Assets/Materials/Shadows.mat
+  artifactKey: Guid(936de07961a923f489a032c20f0d5916) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Shadows.mat using Guid(936de07961a923f489a032c20f0d5916) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fb497307c5196e11fe61b1b97558de2') in 0.508488 seconds
+  Import took 0.518881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001193 seconds.
+  path: Assets/buzzsaw-hit.png
+  artifactKey: Guid(f4e2c1dd899166742a791c7b688cf0c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/buzzsaw-hit.png using Guid(f4e2c1dd899166742a791c7b688cf0c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b002863842ca3cb0c8fd1e4cd2ea9701') in 0.672388 seconds
+  Import took 0.683063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001261 seconds.
+  path: Assets/Materials/New Material.mat
+  artifactKey: Guid(478a3fada27e15a47a64ffb1e8922137) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material.mat using Guid(478a3fada27e15a47a64ffb1e8922137) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7e3f3a662ea54041f9883343be76a3f') in 0.224039 seconds
+  Import took 0.234983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000815 seconds.
+  path: Assets/Prefab/Projectile.prefab
+  artifactKey: Guid(12135b619352d504a834d0697dde5569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Projectile.prefab using Guid(12135b619352d504a834d0697dde5569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ebbd1682863b8610ab785c1fd8987e8') in 0.165213 seconds
+  Import took 0.177034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004186 seconds.
+  path: Assets/Prefab/SoundZone.prefab
+  artifactKey: Guid(d480c7d2f5f07dc4ebef0d7160706862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/SoundZone.prefab using Guid(d480c7d2f5f07dc4ebef0d7160706862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f67a57a13770fa18a2d7abe2e7bf280') in 0.181613 seconds
+  Import took 0.192158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1043.955133 seconds.
+  path: Assets/Scenes/Level 1.unity
+  artifactKey: Guid(a1a246f91f1faae4f9293377b5ad1ad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 1.unity using Guid(a1a246f91f1faae4f9293377b5ad1ad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a2a786a384dc73ddeb81bbd671a31fa') in 0.058183 seconds
+  Import took 0.069281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.077276 seconds.
+  path: Assets/Scenes/Level 1.unity
+  artifactKey: Guid(a1a246f91f1faae4f9293377b5ad1ad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 1.unity using Guid(a1a246f91f1faae4f9293377b5ad1ad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a2a786a384dc73ddeb81bbd671a31fa') in 0.014661 seconds
+  Import took 0.040927 seconds .
+
